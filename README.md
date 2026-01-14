@@ -44,4 +44,3 @@ Bi – Weekly Sampler Box
 
 
 
-https://github.com/suhanisawant22/coffee_shop_pricing_analysis/blob/main/dashboard_image.png
