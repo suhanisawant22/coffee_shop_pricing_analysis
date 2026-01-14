@@ -29,7 +29,7 @@ Shows year-wise revenue comparison.
 Identifies strong & weak performers 
 
 ## Dashboard 
-(https://github.com/suhanisawant22/coffee_shop_pricing_analysis/blob/main/dashboard_image.png)
+![Dashboard](https://github.com/suhanisawant22/coffee_shop_pricing_analysis/blob/main/dashboard_image.png)
 
 ## Business Insights & Recommendations 
 These products require review or discontinuation 
